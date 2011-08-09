@@ -1,0 +1,108 @@
+#icl_enabled_languages{
+    margin-bottom: 10px;    
+}
+#icl_enabled_languages input{
+    visibility: hidden;
+}
+
+#icl_save_default_button, #icl_cancel_default_button{
+    display: none;    
+}
+#icl_save_default_button, #icl_cancel_default_button, #icl_save_language_selection, #icl_cancel_language_selection{
+    color:#E68A00;
+}
+
+#icl_avail_languages_picker{
+    margin: 5px 0 5px 0;        
+    display: none;
+}
+#icl_avail_languages_picker ul, #icl_enabled_languages{
+    list-style: none;
+    margin: 0;
+    padding: 0;        
+}
+#icl_avail_languages_picker li, #icl_enabled_languages li{
+    float:left;
+    width:170px;    
+}
+#icl_enabled_languages li.default_language{
+    font-weight: bold;
+}
+#icl_avail_languages_picker li:hover{
+    color:#f00;
+}
+
+table.language_domains{
+    margin:6px;
+}
+.language_domains td, .language_domains input{
+    font-size: 11px;
+}
+
+a#toggle-theme-localization{
+    text-decoration: none;
+}
+#icl_theme_localization{
+    display: none;
+}
+#icl_theme_localization input{
+    font-size: 80%;
+}
+
+.icon32{
+    background: transparent url(../img/icon.png) no-repeat !important;    
+}
+.icon32_adv{
+    background: transparent url(../img/icon_adv.png) no-repeat !important;    
+}
+
+#icl_inactive_content_table{
+    width:auto;
+}
+#icl_inactive_content_table td{
+    text-align: right;
+}
+#icl_inactive_content_table tfoot td{font-weight:bold;}
+
+#icl_setup_wizard .icl_setup_wizard_step{
+    font-size:11px;
+    width:33%;
+    float:left;
+    font-weight: bold;
+}
+#icl_setup_wizard_progress{
+    height:10px;
+    background-color: #ccc;
+    margin: 10px 0 10px 0;
+    width:100%;
+}
+#icl_setup_wizard_progress_bar{
+    background-color: #777;
+    height:10px;
+}
+
+#icl_more_languages_wrap .widefat h4{
+    margin:15px 0 5px 0;
+}
+
+#icl_lang_sel_preview_wrap{
+    height:30px;
+    float:right;
+    width:300px;
+    border: 1px solid #ccc;
+    padding:0 15px;
+}
+#colorPickerDiv a, #colorPickerDiv a:hover {
+		padding: 1px;
+		text-decoration: none;
+		border-bottom: 0px;
+}
+
+#icl_edit_languages_table input { width:70px; }
+#icl_edit_languages_table .radio, #icl_edit_languages_table .file { width:auto; }
+#icl_edit_languages_info ul {
+	list-style : square inside;
+	padding: 15px;
+}
+
+#icl_edit_languages_table td { vertical-align: middle; }

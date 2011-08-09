@@ -1,0 +1,6 @@
+
+	#wpml_credit_footer a, #wpml_credit_footer a:link, #wpml_credit_footer a:visited { 
+		font-weight: bold !important; }
+		
+	#wpml_credit_footer a:hover { 
+		text-decoration: underline !important; }

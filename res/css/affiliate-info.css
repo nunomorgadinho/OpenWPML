@@ -1,0 +1,10 @@
+.icon32{
+    background: transparent url(../img/icon.png) no-repeat !important;    
+}
+.icon32_adv{
+    background: transparent url(../img/icon_adv.png) no-repeat !important;    
+}
+
+#icl_affiliate_info_check table.widefat{
+    width:500px;
+}

@@ -1,0 +1,24 @@
+headspace2/headspace.php,custom_field,_headspace_page_title,Page title,1
+headspace2/headspace.php,custom_field,_headspace_keywords,Keywords,1
+headspace2/headspace.php,custom_field,_headspace_description,Page description,1
+headspace2/headspace.php,custom_field,_headspace_more_text,More text,1
+headspace2/headspace.php,custom_field,_headspace_blog_name,Site description,1
+headspace2/headspace.php,custom_field,_headspace_blog_taline,Site tagline,1
+headspace2/headspace.php,custom_field,_headspace_raw,Raw data,1
+headspace2/headspace.php,custom_field,_headspace_raw_footer,Raw footer data,1
+headspace2/headspace.php,custom_field,_headspace_pagelink,Page link,0
+headspace2/headspace.php,custom_field,_headspace_follow_link,Follow links,0
+headspace2/headspace.php,custom_field,_headspace_noindex,Robots No-index,0
+headspace2/headspace.php,custom_field,_headspace_nofollow,Robots No-follow,0
+headspace2/headspace.php,custom_field,_headspace_noarchive,Robots No-archive,0
+headspace2/headspace.php,custom_field,_headspace_noodp,Robots No-ODP,0
+headspace2/headspace.php,custom_field,_headspace_noydir,Robots No-Yahoo Dir,0
+headspace2/headspace.php,custom_field,_headspace_plugins,Specific plugins,0
+headspace2/headspace.php,custom_field,_headspace_theme,Theme,0
+headspace2/headspace.php,custom_field,_headspace_rellink_prev,Relative Links (previous),0
+headspace2/headspace.php,custom_field,_headspace_rellink_next,Relative Links (next),0
+headspace2/headspace.php,custom_field,_headspace_rellink_start,Relative Links (start),0
+headspace2/headspace.php,custom_field,_headspace_rellink_end,Relative Links (end),0
+headspace2/headspace.php,custom_field,_headspace_rellink_parent,Relative Links (parent),0
+headspace2/headspace.php,custom_field,_headspace_js,Javascript,0
+headspace2/headspace.php,custom_field,_headspace_style,Stylesheets,0

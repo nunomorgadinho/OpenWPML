@@ -1,0 +1,201 @@
+.icl-account-setup{
+    width:70%;
+}
+.icl_form_errors{
+    border:1px solid #f00;
+    background-color: #ffb7b7;
+    color:#000;
+    width:65%;
+    padding: 5px;    
+    -moz-border-radius-bottomleft:3px;
+    -moz-border-radius-bottomright:3px;
+    -moz-border-radius-topleft:3px;
+    -moz-border-radius-topright:3px;
+    border-bottom-left-radius: 3px 3px;
+    border-bottom-right-radius: 3px 3px;
+    border-top-left-radius: 3px 3px;
+    border-top-right-radius: 3px 3px;
+}
+.icl_form_errors p{
+    line-height:1.5;
+    margin:0;
+}
+.icl_form_errors ul{
+    list-style: circle;
+    margin-left:20px;
+}
+.icl_form_success{
+    border:1px solid #fff;
+    background-color: #336600;
+    color:#fff;
+    width:65%;
+    padding: 5px;
+}
+.icl_error_text{
+    font-style: italic;
+    color:#f00;
+}
+.icl_valid_text{
+    font-style: italic;
+    color:#3f7257;    
+}
+
+.icl_ajx_response{
+    color:#E68A00;
+    display: none;    
+}
+
+#noupdate_but{
+    text-align: center;
+}
+
+.icl_yellow_box{
+    background-color: #FFFBCC; 
+    border: 1pt solid #E6DB55; 
+    padding: 1em; 
+    margin: 0em;
+}
+.icl_yellow_box p{
+    line-height:normal;    
+    margin:0 0 5px 0;
+}
+
+.icl_advanced_switch{
+    margin:-10px 0 10px 0;
+    font-size:85%;
+    text-align:right;
+}
+.icl_advanced_switch a{
+    text-decoration: none;
+}
+.icl_advanced_feature{
+    /*display:none;*/
+}
+
+.icl_translations_table{
+    border: 1px solid #8CCEEA;
+    -moz-border-radius-bottomleft:3px;
+    -moz-border-radius-bottomright:3px;
+    -moz-border-radius-topleft:3px;
+    -moz-border-radius-topright:3px;    
+}
+.icl_translations_table tr.icl_odd_row{background-color:#EFF8FC;}
+.icl_translations_table td{font-size: 11px;}
+
+.icl_golden_button{
+    background-image:none;
+    background-color:#9a841e;
+    color:#fff;
+    text-shadow:0 1px 0 #000000;
+}
+
+.icl_golden_button:hover{
+    color:#fff;
+    border-color: #000;
+}
+
+#icl_post_add_notes h4{
+    background: url(../../res/img/notes.png) no-repeat;
+    padding: 5px 0 5px 20px;    
+    margin:10px 0px 0px 0px;
+}
+#icl_post_add_notes h4 a{
+    text-decoration: none;    
+}
+#icl_post_add_notes textarea, .icl_post_note textarea{
+    width:100%;   
+    font-size: 90%; 
+}
+#icl_post_note{
+    display: none;
+}
+#icl_tn_not_saved{
+    display: none;
+    color:#900;
+    text-align: center;
+}
+.icl_post_note{
+    display: none;
+}
+.icl_tn_progress{
+    display: none;
+}
+
+.icl_sidebar {
+    border: 1px solid #8cceea;
+    background-color: #eff8fc;
+    display: block;
+    float: right;
+    -moz-border-radius-bottomleft:5px;
+    -moz-border-radius-bottomright:5px;
+    -moz-border-radius-topleft:5px;
+    -moz-border-radius-topright:5px;
+    margin-bottom:10px;
+    margin-top:4px;
+    padding:3px 10px 3px 9px;
+    width:207px;
+}
+
+.icl_tick {
+    background-image: url(../img/ok.png);
+    background-repeat: no-repeat;
+    background-position: 0px 3px;
+    padding-left:20px;
+}
+
+.icl_info {
+    background-image: url(../img/sun-solid.png);
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    padding-left:20px;
+}
+
+.icl_next_step {
+    padding-left:20px;
+}
+
+.icl_cyan_box{
+    border: 1px solid #8cceea;
+    background-color: #eff8fc;
+    padding:10px;    
+    margin-bottom:0px;
+    margin-top:0px;
+    -moz-border-radius-bottomleft:5px;
+    -moz-border-radius-bottomright:5px;
+    -moz-border-radius-topleft:5px;
+    -moz-border-radius-topright:5px;
+    border-bottom-left-radius: 5px 5px;
+    border-bottom-right-radius: 5px 5px;
+    border-top-left-radius: 5px 5px;
+    border-top-right-radius: 5px 5px;
+}
+
+.icl_cyan_box p{
+line-height: 100%; margin: 5px 0;   
+}
+.icl_cyan_box H3 { margin-top: 2px; }
+
+.icl_cyan_box ul{
+    margin-top:5px;
+    font-size: 11px;
+}
+
+.icl_new_feature {
+	margin: 5px;
+	padding: 3px 5px;
+	border-width: 1px;
+	border-style: solid;
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+        border-color: #D54E21;
+        background-color: #D54E21;
+        color: #FFFFFF;
+}
+.icl_hot_link{
+    color:#dd0000;
+    font-weight: bold;
+}
+
+#icl_pt_controls p{ padding:0; margin: 0 6px 6px 0 !important;}

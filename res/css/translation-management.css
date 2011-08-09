@@ -1,0 +1,78 @@
+.icon32{
+    background: transparent url(../img/icon.png) no-repeat !important;    
+}
+.icon32_adv{
+    background: transparent url(../img/icon_adv.png) no-repeat !important;    
+}
+
+.icl_tm_wrap{
+    border: 1px solid #CCCCCC;
+    padding:10px;    
+    background-color:#ffffff;
+}
+
+#icl_tm_adduser{
+    margin-top: 4px;
+}
+#icl_tm_adduser .icl_tm_lang_pairs{
+    display: none;    
+    padding:5px;
+}
+
+#icl_tm_adduser .icl_tm_lang_pairs li ul li{
+    display: inline;
+}
+
+.icl_tm_lang_pairs_to{
+    display: none;
+    background: #DFDFDF url(../../../../../wp-admin/images/gray-grad.png) repeat-x scroll left top;
+    -moz-border-radius: 4px;
+    padding: 4px;
+    margin-top: 1px;
+}
+
+.icl_tm_no_to{
+    display: none;
+    background-color: pink;
+    padding:5px;    
+    -moz-border-radius: 4px;
+    margin-bottom: 5px;
+}
+
+.nav-tab{
+    background-color: #efefef;
+    color: #000;
+}
+.nav-tab:hover{
+    background-color: #fff;
+}
+.nav-tab-active{
+    font-weight: bold;        
+    background-color: #fff;
+    border-bottom-color: #fff;
+}
+
+.form-table td, .form-table th{
+    border-bottom:none;
+}
+
+.icl_tj_select_translator_controls{
+    display: none;
+}
+
+#icl_custom_posts_sync_options, #icl_custom_tax_sync_options{
+    width:49%;
+    float:left;    
+}
+#icl_custom_posts_sync_options{
+    margin-right:2%;
+}
+
+.icl_tm_admin_options li ul{
+    margin-left:20px;
+}
+
+#local_translations_add_translator_toggle {
+  border: 1px solid #CCCCCC;
+  padding: 10px;
+}

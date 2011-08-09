@@ -1,0 +1,18 @@
+p.sub {
+    color:#444444;
+    font-family: Verdana;
+    font-size:12px;
+    padding:5px 10px 15px;
+    margin:0px;
+}
+.icon32{
+    background: transparent url(../img/icon.png) no-repeat !important;    
+}
+.icon32_adv{
+    background: transparent url(../img/icon_adv.png) no-repeat !important;    
+}
+.postbox hr{
+    border:none;
+    border-bottom: solid 1px #ccc;    
+    height:1px;
+}

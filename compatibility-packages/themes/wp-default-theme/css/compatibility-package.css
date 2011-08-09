@@ -1,0 +1,8 @@
+
+	#wpml_credit_footer { width: 100%; margin: 10px 0; padding: 0; text-align: center; }
+	
+	#wpml_credit_footer a, #wpml_credit_footer a:link, #wpml_credit_footer a:visited { 
+		font-weight: bold !important; }
+		
+	#wpml_credit_footer a:hover { 
+		text-decoration: underline !important; }
